@@ -1,4 +1,4 @@
-# An LRU Cache implemented with Javascript
+# A LRU Cache implemented with Javascript
 
 Usage:  
 Create using **new LRUCache(capacity,init)**  
